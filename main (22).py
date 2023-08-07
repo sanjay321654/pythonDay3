@@ -45,4 +45,4 @@ if lower == "left":
     else:
          print("Attacked by AWM, Game over!!")
 else:
-    print("you are shoted by snipper,Game over!!")
+    print("you are shoted by snipper,Game over!! ")
